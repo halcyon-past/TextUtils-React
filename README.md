@@ -20,7 +20,7 @@ This project was mainly built to learn the basics of React JS Framework
   <li>Learning routing to switch between homepage and about page</li>
 </ul>
 
-![React Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--tgHHeoRA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/1m9xui8wjmxu85fkckbk.gif)
+![React Logo](https://github.com/halcyon-past/TextUtils-React/blob/main/src/logo.svg)
 
 ## Important Notice
 
